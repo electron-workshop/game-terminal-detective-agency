@@ -1,0 +1,12 @@
+AUTOPSY REPORT:
+
+Victim: Alex Kernel
+Time of death: 22:30 (approx.)
+Cause: Blunt force trauma with heavy object, likely rectangular
+
+Notes:
+- Coffee found in victim's system
+- Victim had been awake for approximately 20+ hours based on biological markers
+- Small fragments of metal found in the wound suggest the murder weapon may contain aluminum
+
+Execute 'grep -r "coffee" ~/mystery' to find all mentions of coffee in the case files.

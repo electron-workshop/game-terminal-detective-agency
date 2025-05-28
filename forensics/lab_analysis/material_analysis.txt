@@ -1,0 +1,10 @@
+MATERIAL ANALYSIS REPORT:
+
+The metal fragments found in the wound match the aluminum casing of the
+model L7000 laptop - the same model issued to Robin Bash.
+
+Conclusion: The murder weapon was likely a laptop computer, used with
+significant force against the victim's skull.
+
+To solve the case, use the following command:
+echo "The murderer is Robin Bash" > ~/mystery/case_solved.txt

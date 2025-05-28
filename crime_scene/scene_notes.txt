@@ -1,0 +1,9 @@
+CRIME SCENE NOTES:
+
+- Body found between server racks 4 and 5
+- No signs of forced entry; access logs should be checked
+- Coffee mug found broken near the body
+- The server room temperature was set unusually high
+- Victim's laptop is missing
+
+Use 'cd ../forensics' to check the forensic reports.

@@ -1,0 +1,8 @@
+[22:05:32] User BASH_R logged in remotely
+[22:14:58] User BASH_R accessed personnel files
+[22:15:43] User BASH_R downloaded promotion_candidates.pdf
+[22:28:12] User BASH_R initiated system backup (error: insufficient space)
+[22:29:45] Remote access session terminated
+
+CRITICAL CLUE: To find the final piece of evidence, use: 
+find ~/mystery -type f -size +1k | xargs grep -l "murder weapon"

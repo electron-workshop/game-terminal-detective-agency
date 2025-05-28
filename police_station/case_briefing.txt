@@ -1,0 +1,15 @@
+CASE #45B29: The Bitwise Murder
+
+Victim: Alex Kernel, 35, Senior System Administrator
+
+Time of death: Between 22:00 and 23:00 last night
+Cause of death: Blunt force trauma to the head
+
+Current suspects:
+1. Sam Query - Database specialist, had recent arguments with victim
+2. Robin Bash - DevOps Engineer, victim's direct competitor for promotion
+3. Taylor Script - Security Analyst, discovered the body
+
+The crime scene has been secured. Use the 'cd' command to go to the crime_scene directory to begin your investigation.
+
+TIP: Use 'ls' to list contents of directories and 'cat' to view files.

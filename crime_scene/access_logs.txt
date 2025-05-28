@@ -1,0 +1,9 @@
+2023-05-09 18:45:23 - Badge access: KERNEL_A - Server room entry
+2023-05-09 20:12:45 - Badge access: SCRIPT_T - Server room entry
+2023-05-09 20:14:12 - Badge access: SCRIPT_T - Server room exit
+2023-05-09 21:05:33 - Badge access: QUERY_S - Server room entry
+2023-05-09 21:20:18 - Badge access: QUERY_S - Server room exit
+2023-05-09 22:15:07 - Badge access: [ERROR_READING] - Server room entry
+2023-05-09 23:45:22 - Badge access: SCRIPT_T - Server room entry (discovery of body)
+
+NOTE: Check the backup security system records with: find ~/mystery -name "backup_*"

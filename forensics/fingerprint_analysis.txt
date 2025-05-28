@@ -1,0 +1,9 @@
+FINGERPRINT ANALYSIS:
+
+Locations processed:
+- Server room door: Sam Query, Robin Bash, Taylor Script, Victim, and 3 unidentified
+- Coffee mug fragments: Victim and one partial print (inconclusive)
+- Keyboard at victim's station: Victim and Taylor Script
+- Thermostat: Robin Bash
+
+NOTE: To examine server access logs, use: cat ../crime_scene/access_logs.txt | grep "22:"

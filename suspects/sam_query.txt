@@ -1,0 +1,9 @@
+SUSPECT INTERVIEW: Sam Query
+
+"I did go to the server room around 21:05 to fix a database issue. Alex and I had disagreements but it was professional, not personal. I left at 21:20 and went to the Bit & Brew pub. Check their security cameras if you don't believe me."
+
+Alibi status: To be verified
+Motive: Medium - Recent argument over database architecture
+Access: Has server room access
+
+To check Sam's workstation files, run: find ~/mystery -name "sam_workstation*"

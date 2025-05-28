@@ -1,0 +1,9 @@
+SUSPECT INTERVIEW: Taylor Script
+
+"I found the body when I did my final security rounds. I had checked the server room earlier around 8:15 PM and Alex was fine, working on some system updates. I didn't see anyone else. I'm still in shock."
+
+Alibi status: Confirmed elsewhere at estimated time of death
+Motive: Low - No known conflicts
+Access: Has server room access
+
+Check witness statements with: cd ../witnesses && ls -la

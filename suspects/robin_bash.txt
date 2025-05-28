@@ -1,0 +1,9 @@
+SUSPECT INTERVIEW: Robin Bash
+
+"I was nowhere near the server room last night. I was working remotely from home since 5 PM. I had nothing against Alex; we were both up for the same promotion but that's just business."
+
+Alibi status: No confirmation
+Motive: High - Direct competitor for promotion
+Access: Has server room access
+
+Use the 'history' command to see what commands you've used so far in your investigation.
